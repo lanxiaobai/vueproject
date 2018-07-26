@@ -8,7 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.5",
+    "jquery": "^3.3.1",
+    "moment": "^2.22.2",
     "vue": "^2.5.16",
+    "vue-lazyload": "^1.2.6",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
